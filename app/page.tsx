@@ -693,7 +693,7 @@ export default function HomePage() {
                     <Star key={s} className="w-4 h-4 fill-amber-400 text-amber-400" />
                   ))}
                 </div>
-                <p className="text-slate-700 leading-relaxed flex-1 mb-6 text-pretty">
+                <p className="text-slate-700 leading-relaxed flex-1 mb-6 text-pretty" style={t.text === "The quality is genuinely exceptional. Packaging was beautiful, delivery was fast, and the linen blanket is softer than anything I've owned." ? { color: "#e25b12" } : undefined}>
                   &ldquo;{t.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 pt-4 border-t border-black/5">
