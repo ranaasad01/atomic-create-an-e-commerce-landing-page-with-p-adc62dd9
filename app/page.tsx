@@ -117,7 +117,7 @@ const testimonials = [
     name: "Margot L.",
     location: "Paris, France",
     rating: 5,
-    text: "Every piece I've ordered from Lumière has exceeded my expectations. The ceramic vase is a conversation starter in every gathering.",
+    text: "Every piece I've ordered from Lumière has exceeded my expectations.",
     product: "Maison Ceramic Vase",
     avatar: "https://m.media-amazon.com/images/I/912lIKSQigL._AC_UF1000,1000_QL80_.jpg",
   },
